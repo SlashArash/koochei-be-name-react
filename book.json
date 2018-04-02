@@ -1,0 +1,8 @@
+{ 
+  "title": "کوچه‌ای به نام React",
+  "description": "این کتاب یه راهنمای ساده و سرراست برای یادگرفتن react هست. در طول خوندن این کتاب با ES6 آشنا می‌شیم و یه پروژه ایجاد می‌کنیم!",
+  "author": "Arash Kadkhodaei",
+  "direction": "rtl",
+  "language": "fa",
+  "plugins" : [ "code" ]
+}
