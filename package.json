@@ -1,6 +1,6 @@
 {
-  "name": "book",
-  "version": "1.0.0",
+  "name": "Koochei Be Name React",
+  "version": "0.0.0",
   "description": "``` code ```",
   "main": "index.js",
   "dependencies": {
@@ -14,6 +14,6 @@
     "docs:build": "npm run docs:prepare && rm -rf _book && gitbook build"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Arash Kadkhodaei",
+  "license": "CC BY-NC-SA 4.0"
 }
